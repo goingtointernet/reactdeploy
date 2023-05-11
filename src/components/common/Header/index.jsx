@@ -17,7 +17,7 @@ function Header() {
        </label>
        {/*menu*/}
        <ul className="menu">
-         <li><a href="/#summery">About</a></li>
+         <li><a href="/#summery">About us</a></li>
          <li><a href="/#languages">Skill</a></li>
          <li><a href="/#career-education">Resume</a></li>
          <li><Link to={'/blog'}>Blog</Link></li>
